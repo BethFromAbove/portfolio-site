@@ -1,0 +1,121 @@
+#header {
+    /*background: url("../imgs/oil.jpg") center center;*/
+    background: url("../imgs/oil.jpg") center center / cover no-repeat;
+    color: white;
+    height: 20rem;
+
+}
+
+#name {
+	color: aquamarine;
+}
+
+body {
+	background: #f8f9fa;
+}
+
+footer {
+	background: white;
+	padding: 3rem 0 2rem;
+
+}
+
+.email {
+	color: #acb3b9;
+    padding: 0 3px;
+}
+
+
+h1 {
+	display: flex;
+	height: 100%;
+	width: 100%;
+    justify-content: center;
+	align-items: center;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #f9f9f9;
+}
+
+.navbar-dark .navbar-nav .chosen .nav-link {
+    color: aquamarine;
+}
+
+ul.social-network {
+  list-style: none;
+  display: inline;
+  margin-left: 0 !important;
+  padding: 0;
+}
+
+ul.social-network li {
+  display: inline;
+  margin: 0 5px;
+}
+
+
+/* footer social icons */
+
+.social-network a.icoFacebook:hover {
+  background-color: #3B5998;
+}
+
+.social-network a.icoLinkedin:hover {
+  background-color: #007bb7;
+}
+
+.social-network a.icoInstagram:hover {
+  background-color: #E1306C;
+}
+
+.social-network a.icoInstructables:hover {
+  background-color: #fabe17;
+}
+
+
+
+.social-network a.icoFacebook:hover i,
+.social-network a.icoInstagram:hover i,
+.social-network a.icoInstructables:hover i,
+.social-network a.icoLinkedin:hover i {
+  color: #fff;
+}
+
+.social-network a.socialIcon:hover,
+.socialHoverClass {
+  color: #44BCDD;
+}
+
+.social-circle li a {
+  display: inline-block;
+  position: relative;
+  margin: 0 auto 0 auto;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  text-align: center;
+  width: 50px;
+  height: 50px;
+  font-size: 30px;
+}
+
+.social-circle li i {
+  margin: 0;
+  line-height: 50px;
+  text-align: center;
+}
+
+
+.social-circle i {
+  color: #595959;
+  -webkit-transition: all 0.8s;
+  -moz-transition: all 0.8s;
+  -o-transition: all 0.8s;
+  -ms-transition: all 0.8s;
+  transition: all 0.8s;
+}
+
+.social-network a {
+  background-color: #F9F9F9;
+}
