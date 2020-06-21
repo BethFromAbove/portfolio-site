@@ -1,4 +1,4 @@
-#header {
+.header {
     /*background: url("../imgs/oil.jpg") center center;*/
     background: url("../imgs/oil.jpg") center center / cover no-repeat;
     color: white;
@@ -6,8 +6,28 @@
 
 }
 
+
+#game-pic {
+	background: url("../imgs/games.jpg") center center / cover no-repeat;
+}
+
+#printing-pic {
+	background: url("../imgs/3dprint2.jpg") center center / cover no-repeat;
+}
+
 #name {
 	color: aquamarine;
+}
+
+.card-img-top {
+	height: 17rem;
+    object-fit: cover;
+}
+
+.spork-imgs {
+	width: 100%;
+	object-fit: cover;
+	padding: 1rem 0;
 }
 
 body {
@@ -20,10 +40,23 @@ footer {
 
 }
 
+h2 {
+	padding: 2rem 0 3rem;
+}
+
+.unordered {
+	list-style-type: none;
+}
+
+.project-content {
+	padding: 4rem 2rem 2rem;
+}
+
 .email {
 	color: #acb3b9;
     padding: 0 3px;
 }
+
 
 
 h1 {
@@ -72,8 +105,6 @@ ul.social-network li {
 .social-network a.icoInstructables:hover {
   background-color: #fabe17;
 }
-
-
 
 .social-network a.icoFacebook:hover i,
 .social-network a.icoInstagram:hover i,
