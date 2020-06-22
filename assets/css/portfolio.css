@@ -2,6 +2,7 @@
     /*background: url("../imgs/oil.jpg") center center;*/
     background: url("../imgs/oil.jpg") center center / cover no-repeat;
     color: white;
+    text-shadow: 1px 1px 3px #000;
     height: 20rem;
 
 }
@@ -13,6 +14,14 @@
 
 #printing-pic {
 	background: url("../imgs/3dprint2.jpg") center center / cover no-repeat;
+}
+
+#tinkering-pic {
+	background: url("../imgs/tinkering.jpg") center center / cover no-repeat;
+}
+
+#science-pic {
+	background: url("../imgs/science.jpg") center center / cover no-repeat;
 }
 
 #name {
