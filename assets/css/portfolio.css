@@ -39,6 +39,14 @@
 	padding: 1rem 0;
 }
 
+.content-text {
+	height: 100%;
+}
+
+.change-me {
+	background: white;
+}
+
 body {
 	background: #f8f9fa;
 }
@@ -49,21 +57,29 @@ footer {
 
 }
 
-h2 {
-	padding: 2rem 0 3rem;
-}
-
 .unordered {
 	list-style-type: none;
 }
 
-.project-content {
-	padding: 4rem 2rem 2rem;
+.content {
+	font-size: 1.1rem;
 }
 
 .email {
 	color: #acb3b9;
     padding: 0 3px;
+}
+
+.instructables-button {
+	padding: 3rem;
+}
+
+.end-of-p {
+	margin-bottom: 2rem;
+}
+
+.container .card .card-body {
+	padding: 1.25rem 2.5rem;
 }
 
 
@@ -76,6 +92,10 @@ h1 {
 	align-items: center;
 }
 
+h2 {
+	padding: 0 0 2rem 0;
+}
+
 .navbar-dark .navbar-nav .nav-link {
     color: #f9f9f9;
 }
@@ -83,6 +103,8 @@ h1 {
 .navbar-dark .navbar-nav .chosen .nav-link {
     color: aquamarine;
 }
+
+/* footer social icons */
 
 ul.social-network {
   list-style: none;
@@ -96,11 +118,12 @@ ul.social-network li {
   margin: 0 5px;
 }
 
-
-/* footer social icons */
-
 .social-network a.icoFacebook:hover {
   background-color: #3B5998;
+}
+
+.social-network a.icoGitHub:hover {
+  background-color: #000;
 }
 
 .social-network a.icoLinkedin:hover {
@@ -115,7 +138,7 @@ ul.social-network li {
   background-color: #fabe17;
 }
 
-.social-network a.icoFacebook:hover i,
+.social-network a.icoGitHub:hover i,
 .social-network a.icoInstagram:hover i,
 .social-network a.icoInstructables:hover i,
 .social-network a.icoLinkedin:hover i {
