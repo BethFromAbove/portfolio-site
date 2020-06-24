@@ -39,13 +39,15 @@
 	padding: 1rem 0;
 }
 
+.planet-finder-imgs {
+	height: 25rem;
+    object-fit: cover;
+}
+
 .content-text {
 	height: 100%;
 }
 
-.change-me {
-	background: white;
-}
 
 body {
 	background: #f8f9fa;
@@ -102,6 +104,20 @@ h2 {
 
 .navbar-dark .navbar-nav .chosen .nav-link {
     color: aquamarine;
+}
+
+.video-wrapper {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 */
+    padding-top: 25px;
+    height: 0;
+}
+.video-wrapper iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
 }
 
 /* footer social icons */
