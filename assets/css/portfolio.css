@@ -7,7 +7,6 @@
 
 }
 
-
 #game-pic {
 	background: url("../imgs/games.jpg") center center / cover no-repeat;
 }
@@ -33,6 +32,7 @@
     object-fit: cover;
 }
 
+
 .spork-imgs {
 	width: 100%;
 	object-fit: cover;
@@ -48,6 +48,17 @@
 	height: 100%;
 }
 
+.game-text {
+	padding-top: 1rem;
+}
+
+a {
+	color: #268594;
+}
+
+a:hover {
+	color: #002b36;
+}
 
 body {
 	background: #f8f9fa;
