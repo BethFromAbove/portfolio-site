@@ -25,16 +25,16 @@
 			<div class="collapse navbar-collapse" id="navLinks">
 				<ul class="navbar-nav ml-auto">
 					<li class="nav-item">
-						<a href="games.html" class="nav-link">GAMES</a>
+						<a href="games" class="nav-link">GAMES</a>
 					</li>
 					<li class="nav-item">
-						<a href="printing.html" class="nav-link">3D PRINTING</a>
+						<a href="printing" class="nav-link">3D PRINTING</a>
 					</li>
 					<li class="nav-item">
-						<a href="tinkering.html" class="nav-link">TINKERING</a>
+						<a href="tinkering" class="nav-link">TINKERING</a>
 					</li>
 					<li class="nav-item">
-						<a href="science.html" class="nav-link">SCIENCE</a>
+						<a href="science" class="nav-link">SCIENCE</a>
 					</li>
 				</ul>
 			</div>
@@ -50,7 +50,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-4 mb-3">
-					<a href="projects/balloon.html">
+					<a href="projects/balloon">
 						<div class="card shadow-sm">
 							<img class="card-img-top" src="assets/imgs/balloon.png" alt=""></img>
 							<div class="card-body">
@@ -61,7 +61,7 @@
 					</a>
 				</div>
 				<div class="col-lg-4 mb-3">
-					<a href="projects/planet-finder.html">
+					<a href="projects/planet-finder">
 						<div class="card shadow-sm">
 							<img class="card-img-top" src="assets/imgs/planet-finder.jpg" alt=""></img>
 							<div class="card-body">
@@ -72,7 +72,7 @@
 					</a>
 				</div>
 				<div class="col-lg-4 mb-3">
-					<a href="projects/loo-rolls.html">
+					<a href="projects/loo-rolls">
 						<div class="card shadow-sm">
 							<img class="card-img-top" src="assets/imgs/loo-roll.jpg" alt=""></img>
 							<div class="card-body">
@@ -86,7 +86,7 @@
 
 			<div class="row">
 				<div class="col-lg-4 mb-3">
-					<a href="projects/holes.html">
+					<a href="projects/holes">
 						<div class="card shadow-sm">
 							<img class="card-img-top" src="assets/imgs/holes.png" alt=""></img>
 							<div class="card-body">
@@ -97,7 +97,7 @@
 					</a>
 				</div>				
 				<div class="col-lg-4 mb-3">
-					<a href="projects/tiger.html">
+					<a href="projects/tiger">
 						<div class="card shadow-sm">
 							<img class="card-img-top" src="assets/imgs/tiger.jpg" alt=""></img>
 							<div class="card-body">
@@ -108,7 +108,7 @@
 					</a>
 				</div>
 				<div class="col-lg-4 mb-3">
-					<a href="projects/hamster.html">
+					<a href="projects/hamster">
 						<div class="card shadow-sm">
 							<img class="card-img-top" src="assets/imgs/hamster.jpg" alt=""></img>
 							<div class="card-body">

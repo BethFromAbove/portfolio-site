@@ -18,23 +18,23 @@
 <body>
 	<nav id="mainNavbar" class="navbar navbar-dark bg-dark navbar-expand-md py-0 fixed-top">
 		<div class="container">
-			<a id="name" class="navbar-brand" href="index.html">Beth Kimber</a>
+			<a id="name" class="navbar-brand" href="index">Beth Kimber</a>
 			<button class="navbar-toggler" data-toggle="collapse" data-target="#navLinks" aria-label="Toggle navigation">
 				<span class="navbar-toggler-icon"></span>
 			</button>
 			<div class="collapse navbar-collapse" id="navLinks">
 				<ul class="navbar-nav ml-auto">
 					<li class="nav-item">
-						<a href="games.html" class="nav-link">GAMES</a>
+						<a href="games" class="nav-link">GAMES</a>
 					</li>
 					<li class="nav-item">
-						<a href="printing.html" class="nav-link">3D PRINTING</a>
+						<a href="printing" class="nav-link">3D PRINTING</a>
 					</li>
 					<li class="nav-item">
-						<a href="tinkering.html" class="nav-link">TINKERING</a>
+						<a href="tinkering" class="nav-link">TINKERING</a>
 					</li>
 					<li class="nav-item chosen">
-						<a href="science.html" class="nav-link">SCIENCE</a>
+						<a href="science" class="nav-link">SCIENCE</a>
 					</li>					
 				</ul>
 			</div>
@@ -50,7 +50,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-4 mb-3">
-					<a href="projects/tiger.html">
+					<a href="projects/tiger">
 						<div class="card shadow-sm">
 							<img class="card-img-top" src="assets/imgs/tiger.jpg" alt=""></img>
 							<div class="card-body">
@@ -61,7 +61,7 @@
 					</a>
 				</div>
 				<div class="col-lg-4 mb-3">
-					<a href="projects/acoustic-lev.html">
+					<a href="projects/acoustic-lev">
 						<div class="card shadow-sm">
 							<img class="card-img-top" src="assets/imgs/acoustic-lev.jpg" alt=""></img>
 							<div class="card-body">
