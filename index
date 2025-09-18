@@ -46,6 +46,29 @@
 
 	</section>
 
+	<section class="content">
+		<div class="container">
+			<div class="card">
+				<div class="card-body">
+					<div class="row mb-4 mt-3">
+						<div class="col-lg-6">
+							<img class="rounded img-fluid" src="../assets/imgs/ProfilePic.png"">
+						</div>
+						<div class="col-lg-6">
+							<h2>Hi, I'm Beth</h2>
+							<p>
+								I’m a Creative Technologist based in Bristol, making playful, interactive installations that blend electronics, digital fabrication, and storytelling to spark curiosity and wonder.
+							</p>
+							<p>
+								With a background in software engineering and science communication, I create hands-on experiences that invite people to press buttons, turn dials, and step into new perspectives, creating moments of discovery and delight.
+							</p>						
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
 	<section id="gallery">
 		<div class="container">
 			<div class="row">
