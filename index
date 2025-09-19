@@ -51,16 +51,21 @@
 			<div class="card">
 				<div class="card-body">
 					<div class="row mb-4 mt-3">
-						<div class="col-lg-6">
-							<img class="rounded img-fluid" src="../assets/imgs/ProfilePic.png"">
+						<div class="col-lg-6" style="text-align: center;">
+							<img class="rounded img-fluid" src="../assets/imgs/ProfilePic.png" width="65%">
 						</div>
 						<div class="col-lg-6">
+							<p>
+							</p>
 							<h2>Hi, I'm Beth</h2>
 							<p>
-								I’m a Creative Technologist based in Bristol, making playful, interactive installations that blend electronics, digital fabrication, and storytelling to spark curiosity and wonder.
+								I’m a Creative Technologist based in Bristol, making playful, interactive tech that blends electronics, digital fabrication, and storytelling to spark curiosity and wonder. 
 							</p>
 							<p>
-								With a background in software engineering and science communication, I create hands-on experiences that invite people to press buttons, turn dials, and step into new perspectives, creating moments of discovery and delight.
+								With a background in software engineering and science communication, I make things which invite people to push buttons, turn dials, and get hands-on with technology.
+							</p>
+							<p>
+								I also love making tiny, silly games for game jams with my friends, so if you want to pretend it's the early 2000's and play some naff browser games, head on over to the Games section to have a play.
 							</p>						
 						</div>
 					</div>

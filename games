@@ -46,6 +46,25 @@
 
 	</section>
 
+	<section class="content">
+		<div class="container">
+			<div class="card">
+				<div class="card-body">
+					<div class="row mb-4 mt-3">
+						<div class="col-lg-6">			
+							<p>
+								A selection of games made with friends for game jams - short competitions to make a game over the course of a weekend or a few weeks at most. 								
+							</p>
+							<p>
+								Expect silliness and an exuberant lack of polish.
+							</p>						
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
 	<section id="gallery">
 		<div class="container">
 			<div class="row">
