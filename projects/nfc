@@ -1,0 +1,140 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+	<!-- Required meta tags -->
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+	<!-- Bootstrap CSS -->
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"
+	crossorigin="anonymous">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css">
+	<link rel="stylesheet" type="text/css" href="../assets/css/portfolio.css">
+
+	<title>Near Field Creatures - Beth Kimber</title>
+</head>
+
+<body>
+	<nav id="mainNavbar" class="navbar navbar-dark bg-dark navbar-expand-md py-0 fixed-top">
+		<div class="container">
+			<a id="name" class="navbar-brand" href="../index">Beth Kimber</a>
+			<button class="navbar-toggler" data-toggle="collapse" data-target="#navLinks" aria-label="Toggle navigation">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+			<div class="collapse navbar-collapse" id="navLinks">
+				<ul class="navbar-nav ml-auto">
+					<li class="nav-item chosen">
+						<a href="../games" class="nav-link">GAMES</a>
+					</li>
+					<li class="nav-item">
+						<a href="../printing" class="nav-link">3D PRINTING</a>
+					</li>
+					<li class="nav-item">
+						<a href="../tinkering" class="nav-link">TINKERING</a>
+					</li>
+					<li class="nav-item">
+						<a href="science" class="nav-link">SCIENCE</a>
+					</li>
+					
+				</ul>
+			</div>
+		</div>
+	</nav>
+
+	<section id="game-pic" class ="header jumbotron text-center">
+		<h1 class="display-3">GAMES</h1>
+
+	</section>
+
+	<section class="content mb-5">
+		<div class="container">
+			<div class="card">
+				<div class="card-body">
+					<div class="row mb-4 mt-3">
+						<div class="col-lg-6">
+							<h2>Near Field Creatures</h2>
+							<p>
+								Using the inbuilt NFC (Near Field Chip) readers that had just started to become common in mobile devices (circa 2012), this app scanned student id cards, credit cards, or anything else with a chip and turned it into an adorable pet for you to collect!
+							</p>
+							<p>
+								The unique identifier on each NFC chip will always be read as the same creature, so if your student card is a lion on your phone, it will be on everyone else's too. Users are encouraged to gently tease those represented by a slug, after collecting it for themselves of course.				
+							</p>
+							<p>
+								The idea was to encourage people to socialise with lots of different people in order to fill up their Near Field with Creatures and provide a conversation starter around what animal everyone is assigned.
+							</p>
+							<p>
+								If taken any further than a fun appathon entry, I'm sure there would be lots of issues around scanning items which contain sensitive information like bank details and personal identifiers. Even though our app only looked at the id number of the chip, we still limited it to student id cards for the day.
+							</p>
+							
+						</div>
+						<div class="col-lg-6">
+							
+							<img class="rounded img-fluid" src="../assets/imgs/nfc.png">
+
+						</div>
+						<div class="row">
+							<div class="game-text col-lg-6">
+								<h4>The Team</h4>
+								<ul class="unordered">
+									<li>Beth Kimber <a href="https://github.com/BethFromAbove"><i class="fab fa-github"></i> github.com/BethFromAbove</a></li>
+									<li>Dave Kimber <a href="https://github.com/Kimbsy"><i class="fab fa-github"></i> github.com/Kimbsy</a></li>
+									<li>Thomas Mortensson <a href="https://github.com/thomasmortensson"><i class="fab fa-github"></i> github.com/thomasmortensson</a></li></li>
+								</ul>
+
+								<h4>Appathon Info</h4>
+								<ul class="unordered">
+									<li><strong>Time Limit:</strong> 28 Hours</li>
+									<li><strong>Dates:</strong> 10th March 2012</li>
+									<li><strong>Number of submissions:</strong> 7 teams</li>
+								</ul>
+								<h4>Results for Near Field Creatures</h4>
+								<ul>
+									<li>3rd Place</li>
+								</ul>
+								
+							</div>
+							<div class="game-text col-lg-6">
+								<img class="spork-imgs" src="../assets/imgs/creatures.png">
+								
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<footer class="mainfooter" role="contentinfo">
+		<div class="footer-middle">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12 d-flex justify-content-center">
+						<ul class="social-network social-circle">
+							<li><a href="https://github.com/BethFromAbove" class="icoGitHub" title="GitHub"><i class="fab fa-github"></i></a></li>
+							<li><a href="https://www.instagram.com/beth.from.above/" class="icoInstagram" title="Instagram"><i class="fab fa-instagram"></i></a></li>
+							<li><a href="https://www.linkedin.com/in/beth-kimber/" class="icoLinkedin" title="Linkedin"><i class="fab fa-linkedin"></i></a></li>
+							<li><a href="https://www.instructables.com/member/snowbiscuit/" class="icoInstructables" title="Instructables"><i class="fas fa-robot"></i></a></li>
+						</ul>			
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-12 d-flex justify-content-center">
+						<p class="text-center">beth<span class="email">(dot)</span>g<span class="email">(dot)</span>kimber<span class="email">(at)</span>gmail<span class="email">(dot)</span>com</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</footer>
+
+	<!-- Optional JavaScript -->
+	<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+	crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+	crossorigin="anonymous"></script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
+	crossorigin="anonymous"></script>
+</body>
+
+</html>

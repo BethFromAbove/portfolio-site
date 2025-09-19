@@ -1,0 +1,169 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+	<!-- Required meta tags -->
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+	<!-- Bootstrap CSS -->
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"
+	crossorigin="anonymous">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css">
+	<link rel="stylesheet" type="text/css" href="assets/css/portfolio.css">
+
+	<title>Games - Beth Kimber</title>
+</head>
+
+<body>
+	<nav id="mainNavbar" class="navbar navbar-dark bg-dark navbar-expand-md py-0 fixed-top">
+		<div class="container">
+			<a id="name" class="navbar-brand" href="index">Beth Kimber</a>
+			<button class="navbar-toggler" data-toggle="collapse" data-target="#navLinks" aria-label="Toggle navigation">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+			<div class="collapse navbar-collapse" id="navLinks">
+				<ul class="navbar-nav ml-auto">
+					<li class="nav-item chosen">
+						<a href="games" class="nav-link">GAMES</a>
+					</li>
+					<li class="nav-item">
+						<a href="printing" class="nav-link">3D PRINTING</a>
+					</li>
+					<li class="nav-item">
+						<a href="tinkering" class="nav-link">TINKERING</a>
+					</li>
+					<li class="nav-item">
+						<a href="science" class="nav-link">SCIENCE</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</nav>
+
+	<section id="game-pic" class ="header jumbotron text-center">
+		<h1 class="display-3">GAMES</h1>
+
+	</section>
+
+	<section class="content">
+		<div class="container">
+			<div class="card">
+				<div class="card-body">
+					<div class="row mb-4 mt-3">
+						<div class="col-lg-6">			
+							<p>
+								A selection of games made with friends for game jams - short competitions to make a game over the course of a weekend or a few weeks at most. 								
+							</p>
+							<p>
+								Expect silliness and an exuberant lack of polish.
+							</p>						
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<section id="gallery">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-4 mb-3">
+					<a href="projects/balloon">
+						<div class="card shadow-sm">
+							<img class="card-img-top" src="assets/imgs/balloon.png" alt=""></img>
+							<div class="card-body">
+								<h5 class="card-title">Mission Impoppable</h5>
+								<p class="card-text">They’re the best damn agent in the field… but they need a little help getting around. </p>
+							</div>
+						</div>
+					</a>
+				</div>
+				<div class="col-lg-4 mb-3">
+					<a href="projects/holes">
+						<div class="card shadow-sm">
+							<img class="card-img-top" src="assets/imgs/holes.png" alt=""></img>
+							<div class="card-body">
+								<h5 class="card-title">Black Hole Avoidance Simulator 3000</h5>
+								<p class="card-text">Practice navigating dangerous black holes</p>
+							</div>
+						</div>
+					</a>
+				</div>
+				<div class="col-lg-4 mb-3">
+					<a href="projects/rsd">
+						<div class="card shadow-sm">
+							<img class="card-img-top" src="assets/imgs/rsd.png" alt=""></img>
+							<div class="card-body">
+								<h5 class="card-title">Relatively Special Deliveries</h5>
+								<p class="card-text">Delivering the packages of today - tomorrow!</p>
+
+							</div>
+
+						</div>
+					</a>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-lg-4 mb-3">
+					<a href="projects/spork">			
+						<div class="card shadow-sm">
+							<img class="card-img-top" src="assets/imgs/spork.png" alt=""></img>
+							<div class="card-body">
+								<h5 class="card-title">Spork</h5>
+								<p class="card-text">The future of cutlery is now!</p>
+							</div>
+
+						</div>
+					</a>
+				</div>
+				<div class="col-lg-4 mb-3">
+					<a href="projects/nfc">			
+						<div class="card shadow-sm">
+							<img class="card-img-top" src="assets/imgs/nfc.png" alt=""></img>
+							<div class="card-body">
+								<h5 class="card-title">Near Field Creatures</h5>
+								<p class="card-text">Collectable creatures from NFC cards</p>
+							</div>
+
+						</div>
+					</a>
+				</div>
+			</div>
+		</section>
+
+		<footer class="mainfooter" role="contentinfo">
+			<div class="footer-middle">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-12 d-flex justify-content-center">
+							<ul class="social-network social-circle">
+								<li><a href="https://github.com/BethFromAbove" class="icoGitHub" title="GitHub"><i class="fab fa-github"></i></a></li>
+								<li><a href="https://www.instagram.com/beth.from.above/" class="icoInstagram" title="Instagram"><i class="fab fa-instagram"></i></a></li>
+								<li><a href="https://www.linkedin.com/in/beth-kimber/" class="icoLinkedin" title="Linkedin"><i class="fab fa-linkedin"></i></a></li>
+								<li><a href="https://www.instructables.com/member/snowbiscuit/" class="icoInstructables" title="Instructables"><i class="fas fa-robot"></i></a></li>
+							</ul>			
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-md-12 d-flex justify-content-center">
+							<p class="text-center">beth<span class="email">(dot)</span>g<span class="email">(dot)</span>kimber<span class="email">(at)</span>gmail<span class="email">(dot)</span>com</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</footer>
+
+		<!-- Optional JavaScript -->
+		<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+		<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+		crossorigin="anonymous"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/lib
+		s/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+		crossorigin="anonymous"></script>
+		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
+		crossorigin="anonymous"></script>
+	</body>
+
+	</html>
