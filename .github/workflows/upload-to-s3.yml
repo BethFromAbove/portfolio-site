@@ -26,6 +26,7 @@ jobs:
           for file in *.html; do
             aws s3 cp "$file" "s3://${{ secrets.S3_BUCKET }}/$(basename "${file%.html}")" \
               --content-type text/html \
+              --cache-control "max-age=0, no-cache, no-store, must-revalidate" \
               --acl public-read
           done
 
@@ -34,6 +35,7 @@ jobs:
           for file in projects/*.html; do
             aws s3 cp "$file" "s3://${{ secrets.S3_BUCKET }}/projects/$(basename "${file%.html}")" \
               --content-type text/html \
+              --cache-control "max-age=0, no-cache, no-store, must-revalidate" \
               --acl public-read
           done
 
@@ -41,4 +43,5 @@ jobs:
         run: |
           aws s3 cp assets/ "s3://${{ secrets.S3_BUCKET }}/assets/" \
             --recursive \
+            --cache-control "max-age=0, no-cache, no-store, must-revalidate" \
             --acl public-read
